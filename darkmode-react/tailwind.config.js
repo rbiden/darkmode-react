@@ -2,16 +2,18 @@
 module.exports = {
   content: [
     "./src/**/*.{js,jsx,ts,tsx}",
+    "./node_modules/flowbite-react/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
     colors: {
-      'primary': '#d9d9d9',
-      'semi-primary': '#495057',
-      'secondary': '#ffc300',
-      'black': '#30343f',
+      'light': '#d9d9d9',
+      'dark': '#30343f',
+      'selected': '#00000'
     },
     screens: {
-      'mobile': '640px',
+      'mobile': '400px',
+      'tablet': '920px',
+      'desktop': '1280px'
     },
     extend: {},
   },
