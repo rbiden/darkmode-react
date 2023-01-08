@@ -8,11 +8,12 @@ module.exports = {
     colors: {
       'light': '#d9d9d9',
       'dark': '#30343f',
-      'selected': '#00000'
+      'selected': '#00000',
+      'border': '#717b92'
     },
     screens: {
-      'mobile': '400px',
-      'tablet': '920px',
+      'mobile': '600px',
+      'tablet': '930px',
       'desktop': '1280px'
     },
     extend: {},
