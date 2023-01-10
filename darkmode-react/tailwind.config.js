@@ -13,7 +13,8 @@ module.exports = {
     },
     screens: {
       'mobile': '600px',
-      'tablet': '930px',
+      'mobile-l': '790px',
+      'tablet': '1020px',
       'desktop': '1280px'
     },
     extend: {},

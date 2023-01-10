@@ -1,19 +1,11 @@
-import { useState } from 'react';
+import { useContext } from 'react';
 import { useNavigate } from 'react-router';
 import { MdDarkMode } from 'react-icons/md';
+import { ThemeContext } from '../components/ThemeProvider';
 
 export const App = () => {
-    const [darkMode, setDarkMode] = useState(false);
+    const {darkMode, toggleDarkMode} = useContext(ThemeContext);
     const navigate = useNavigate();
-
-    const toggleDarkMode = () => {
-        setDarkMode(!darkMode);
-        if (!darkMode) {
-            document.body.classList.add('bg-dark');
-        } else {
-            document.body.classList.remove('bg-dark');
-        }
-    }
 
     return (
         <div className='p-4 min-w-min h-screen w-screen flex justify-center items-center'>
