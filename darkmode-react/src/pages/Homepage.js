@@ -7,78 +7,14 @@ export const Homepage = () => {
     return (
         <div>
           <Navbar/>
-          <h1 className={`${darkMode ? 'text-light' : 'text-dark'} p-4`}>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et. 
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et. 
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et. 
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et. 
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et. 
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et. 
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et. 
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et. 
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et. 
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et. 
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et. 
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et. 
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et. 
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et. 
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et. 
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio est expedita sunt necessitatibus velit quia amet illum quisquam, nostrum dignissimos fugit vitae eius esse accusamus earum aut illo, molestiae et.
-          </h1>
+          <div className='flex items-center h-[80vh] pl-16 '>
+            <div className={`${darkMode ? 'text-light' : 'text-dark'} leading-snug font-bold w-3/4 text-7xl`}>
+              This is just a sample project, don't get your expectations too high.
+            </div>
+            <div className='absolute right-16'>
+              <img src={require('../styles/images/Wallpaper.png')} />
+            </div>
+          </div>
         </div>
     );
 };
